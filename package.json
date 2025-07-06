@@ -1,0 +1,22 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "description": "Це мій перший проєкт на Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a11koval/my-node-project.git"
+  },
+  "keywords": [],
+  "author": "Anton",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/a11koval/my-node-project/issues"
+  },
+  "homepage": "https://github.com/a11koval/my-node-project#readme"
+}
